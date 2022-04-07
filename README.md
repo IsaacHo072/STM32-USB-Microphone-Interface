@@ -3,6 +3,8 @@ USB Audio Class Device with STM32G431CB and TLV320ADC6120
 
 ~~Hardware not yet verified~~, do not order the PCB. 
 
+<img src="Assembled PCB Picture.jpg" alt="Assembled PCB" width="200"/>
+
 The PCB is working, but not fully verified since the I2C + I2S driver for TLV320ADC6120 haven't been written yet.
 
 Some changes needed to be made to the STM32 board, for revision B:
