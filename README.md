@@ -11,8 +11,8 @@ Some changes needed to be made to the STM32 board, for revision B:
  - RST button have the wrong footprint, missing the positioning hole
  
 Software development:
-| Task                                                        | Status      | Finished?                                          |
-|-------------------------------------------------------------|-------------|----------------------------------------------------|
-| Setup STM32G431 as a USB Audio Class Device in STM32CubeIDE | in progress | [x] USB could connect <br/> [] USB Microphone Mode |
-| TLV320ADC6120 I2C Control                                   |             |                                                    |
-| TLV320ADC6120 I2S transfer with DMA                         |             |                                                    |
+| Task                                                        | Status      | Finished?                                                                       |
+|-------------------------------------------------------------|-------------|---------------------------------------------------------------------------------|
+| Setup STM32G431 as a USB Audio Class Device in STM32CubeIDE | in progress | <ul><li>[x] USB could connect to PC </li><li>[ ] USB microphone mode </li></ul> |
+| TLV320ADC6120 I2C Control                                   |             |                                                                                 |
+| TLV320ADC6120 I2S transfer with DMA                         |             |                                                                                 |
