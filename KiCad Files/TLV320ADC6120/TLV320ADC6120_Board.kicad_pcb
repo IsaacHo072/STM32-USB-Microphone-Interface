@@ -1576,7 +1576,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cf74f3f3-63cd-4996-854b-6d05e9c8064d)
     )
-    (fp_text value "TPS7A0533PDBV" (at 0 3.05 90) (layer "F.Fab")
+    (fp_text value "TLV320ADC6120" (at 0 3.05 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ec33a177-ead1-40a1-9059-2c275680a91b)
     )
