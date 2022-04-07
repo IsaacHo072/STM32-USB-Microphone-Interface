@@ -384,7 +384,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e182f9d1-2a8f-4b91-a06f-be8a63e79366)
     )
-    (fp_text value "TPS7A0533PDBV" (at 0 2.4 90) (layer "F.Fab")
+    (fp_text value "TPS7A2031PDBVR" (at 0 2.4 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 744a7e76-42a9-4717-b495-06a4f53adf75)
     )

@@ -2251,7 +2251,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 63d014fd-19cc-4a1b-822f-c2950ee2f950)
     (property "Reference" "U1" (id 0) (at 58.42 38.1 0))
-    (property "Value" "TPS7A0533PDBV" (id 1) (at 58.42 40.64 0))
+    (property "Value" "TPS7A2031PDBVR" (id 1) (at 58.42 40.64 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5" (id 2) (at 58.42 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2844,7 +2844,7 @@
       (reference "R8") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/63d014fd-19cc-4a1b-822f-c2950ee2f950"
-      (reference "U1") (unit 1) (value "TPS7A0533PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+      (reference "U1") (unit 1) (value "TPS7A2031PDBVR") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/3076b0f6-3b15-4eee-861e-b6955be460f2"
       (reference "U2") (unit 1) (value "TLV320ADC6120") (footprint "Library:QFN-16_EP_3x3_Pitch0.5mm")
