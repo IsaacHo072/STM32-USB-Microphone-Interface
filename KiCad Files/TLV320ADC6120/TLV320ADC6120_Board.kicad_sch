@@ -1918,7 +1918,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3076b0f6-3b15-4eee-861e-b6955be460f2)
     (property "Reference" "U2" (id 0) (at 180.34 53.34 0))
-    (property "Value" "TPS7A0533PDBV" (id 1) (at 180.34 55.88 0))
+    (property "Value" "TLV320ADC6120" (id 1) (at 180.34 55.88 0))
     (property "Footprint" "Library:QFN-16_EP_3x3_Pitch0.5mm" (id 2) (at 180.34 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2847,7 +2847,7 @@
       (reference "U1") (unit 1) (value "TPS7A0533PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/3076b0f6-3b15-4eee-861e-b6955be460f2"
-      (reference "U2") (unit 1) (value "TPS7A0533PDBV") (footprint "Library:QFN-16_EP_3x3_Pitch0.5mm")
+      (reference "U2") (unit 1) (value "TLV320ADC6120") (footprint "Library:QFN-16_EP_3x3_Pitch0.5mm")
     )
   )
 )
