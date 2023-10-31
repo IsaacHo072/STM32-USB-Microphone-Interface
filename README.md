@@ -1,7 +1,6 @@
 # STM32-USB-Microphone-Interface
 USB Audio Class Device with STM32G431CB and TLV320ADC6120
 
-~~Hardware not yet verified~~, do not order the PCB. 
 
 <img src="Assembled PCB Picture.jpg" alt="Assembled PCB" width="400"/>
 
